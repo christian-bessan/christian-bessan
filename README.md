@@ -45,11 +45,15 @@ Idée essentielle : MathIA utilise l'IA pour développer l'intelligence de l'app
 **Statut**: Projet en développement (en cours)
 
 2- _**Projets Data Science**_
+
 Travaux pratiques portant sur le nettoyage, l'organisation, l'analyse et l'exploitation des données avec Python et Excel.
 
 ☘️ **Actuellement**
+
 . Je développe mes compétences en Python et Data Science.
+
 . J'appondis mes connaissances en ML.
+
 . Je réalise des projets pratiques pour renforcer mes compétences techniques
 
 📠 **Me contacter**
