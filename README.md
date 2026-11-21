@@ -67,5 +67,8 @@ Travaux pratiques portant sur le nettoyage, l'organisation, l'analyse et l'explo
 . _E-mail_ : cbessan6@gmail.com
 
 
+⭐ **_Apprendre, construire, expérimenter et progresser continuellement._**
+
+
 
 
