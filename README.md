@@ -26,7 +26,7 @@ Mon objectif est de maîtriser les outils et les méthodes de la Data Science et
 
 . **__Langage__**: Python
 
-. **__Analyse__de données__**: Excel, Pandas, Numpy
+. **__Analyse de données__**: Excel, Pandas, Numpy
 
 . **__Visualisation__**: Matplotlib
 
@@ -38,7 +38,7 @@ Mon objectif est de maîtriser les outils et les méthodes de la Data Science et
 
 **1**. _**MathIA**_ 
 
-Assistant pédagogique dédié à l'accompagnement des élèves/étudiants en mathématiques. Son objectif est de les guider progressivement dans leur réflexion, de les aider à comprendre les notions et de les amener à trouver eux- même les solutions aux problèmes posés.
+Assistant pédagogique dédié à l'accompagnement des élèves/étudiants en mathématiques. Son objectif est de les guider progressivement dans leur réflexion, de les aider à comprendre les notions et de les amener à trouver eux- mêmes les solutions aux problèmes posés.
 L'ambition est de faire de l'IA un véritable outil d'apprentissage, et non un moyen de penser à la place des apprenants .
 
 _Idée essentielle_ : MathIA utilise l'IA pour développer l'intelligence de l'apprenant, et non pour la remplacer.
