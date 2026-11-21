@@ -53,9 +53,10 @@ Travaux pratiques portant sur le nettoyage, l'organisation, l'analyse et l'explo
 . Je réalise des projets pratiques pour renforcer mes compétences techniques
 
 📠 **Me contacter**
+
 . _LinkedIn_ : [Mon profil Linkedln](https://www.linkedin.com/in/christian-bessan-a362863ba)
 
-. _WhatsApp_ :[Me contacter sur whatsApp](https://wa.me//229 0198640017)
+. _WhatsApp_ :[Me contacter sur whatsApp](https://wa.me//2290198640017)
 
 
 . _E-mail_ : cbessan6@gmail.com
